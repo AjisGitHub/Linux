@@ -3,7 +3,9 @@
 pwd → Show current working directory
 
 ls → List files in the directory
+			
 			a. ls -l → Long listing (permissions, owner, size, date)
+			
 			b. ls -a → Show hidden files
 
 cd <directory> → Change directory
